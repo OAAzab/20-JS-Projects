@@ -2,7 +2,7 @@
 
 ## I will add a Javascirpt project everyday for 20 days.
 
-Feel free to get these projects to practice, If you need any help contact me.
+Feel free to get any of these projects to practice, If you need any help contact me.
 
 
 ### Day 1 : <a href="https://github.com/OAAzab/20-JS-Projects/tree/main/Length%20Converter">Length Converter 📏</a>
